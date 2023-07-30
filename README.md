@@ -7,4 +7,4 @@ Portfolio
 Visit - https://rajnsrivastava.github.io/CODSOFT/Level%201%20-%20Task%202%20Portfolio
 
 Calculator
-Visit - https://rajnsrivastava.github.io/CODSOFT/
+Visit - https://rajnsrivastava.github.io/CODSOFT/Level%201%20-%20Task%203%20Calculator
